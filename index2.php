@@ -6,7 +6,7 @@
     $p1->nome       = "Natally Reis";
     $p1->altura     = "1.60";
     $p1->nascimento = "07-01-2007";
-    $p1->hobbie     = "Ouvir música";
+    $p1->hobbie     = "Ouvir música e fotografia";
 
     
 
