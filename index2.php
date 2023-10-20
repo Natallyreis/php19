@@ -247,10 +247,10 @@
 
             $p32 = new Pessoa();
 
-            $p32->nome       = "Gustavo Otaviano";
-            $p32->altura     = "1.85";
-            $p32->nascimento = "04-03-2007";
-            $p32->hobbie     = "Praticar esportes";
+            $p32->nome       = "Maria Eduarda";
+            $p32->altura     = "1.65";
+            $p32->nascimento = "02-04-2007";
+            $p32->hobbie     = "Ver série e jogar vôlei";
 
 
     $p1->MostrarPessoa();
